@@ -1,6 +1,5 @@
-Hello World
-This is a new line
-Does it commit?
+Let's git rid of it all.
+Append this in the middle
+Can someone please check for typos?
 
-And we can see a few new lines being added here
-Can we try and commit this?
+I'm not sure if this is meant to be checked line by line.
